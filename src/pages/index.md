@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Aonghus Flynn
     subtitle: Trying out Stackbit
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      This is a test site.
     actions:
       - label: Try Free
         url: /pricing
