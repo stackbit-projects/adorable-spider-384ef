@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Aonghus Flynn
-    subtitle: Optional hero section subtitle
+    subtitle: Optional hero sect
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
